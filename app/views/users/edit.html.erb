@@ -13,7 +13,7 @@
     <%# <%= submit_tag "Create New User" %>
   <%# <% end %>
 
-   <%= form_for @user do |f| %>
+   <%= form_for @user, url: edit_user_path, html: { method: :put } do |f| %> 
     <%= f.text_field :username, placeholder: "username" %>
     <%= f.text_field :email, placeholder: "example@example.com" %>
     <%= f.password_field :password %>
