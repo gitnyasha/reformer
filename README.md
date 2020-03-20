@@ -35,3 +35,6 @@ Contributions, issues and feature requests are welcome! Start by:
 - Github: [@gitnyasha](https://github.com/gitnyasha)
 - Twitter: [@marshallchkari](https://twitter.com/marshallchkari) 
 
+## Source
+
+- The project was taken from the ordin website (https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms)
