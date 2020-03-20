@@ -23,3 +23,15 @@ Contributions, issues and feature requests are welcome! Start by:
 * Push your branch up to your forked repository
 * Open a Pull Request with a detailed description to the development branch of the original project for a review
 
+## Authors
+
+👤 **Miguel Dubois**
+
+- Github: [@MiguelDP4](https://github.com/MiguelDP4)
+- Twitter: [@Mike_DP4](https://twitter.com/Mike_DP4)
+
+👤 **Marshall Chikari**
+
+- Github: [@gitnyasha](https://github.com/gitnyasha)
+- Twitter: [@marshallchkari](https://twitter.com/marshallchkari) 
+
